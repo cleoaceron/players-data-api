@@ -1,3 +1,6 @@
+# Edit the .env file to setup into your localhost
+- ./.env
+
 # How to install Players Data Importer?
 
 - php artisan migrate
@@ -8,8 +11,8 @@
 
 # How to view/list Players Rest API?
 
-- <localhost>/admin/view/<uuid>
-- <localhost>/admin/list/<pageNumber>
+- http://localhost:8000/admin/view/<'uuid'>
+- http://localhost:8000/admin/list/<'Page Number (1, 2, 3...)'>
 
 # How to run API Testing?
 
