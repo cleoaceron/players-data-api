@@ -11,8 +11,8 @@
 
 # How to view/list Players Rest API?
 
-- http://localhost:8000/admin/view/<'uuid'>
-- http://localhost:8000/admin/list/<'Page Number (1, 2, 3...)'>
+- http://localhost:8000/admin/players/view/<'uuid'>
+- http://localhost:8000/admin/players/list/<'Page Number (1, 2, 3...)'>
 
 # How to run API Testing?
 
